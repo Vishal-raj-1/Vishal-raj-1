@@ -29,6 +29,6 @@
 
 ### Contact with me
 
-<a href="mailto:rajputvishal33786@gmail.com"><img align="left" alt="Vishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="mailto:rajputvishal33786@gmail.com"><img align="left" alt="Vishal | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="http://www.linkedin.com/in/vishal-0710061a1/"><img align="left" alt="Vishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/Vishal-raj-1"><img align="left" alt="Vishal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
