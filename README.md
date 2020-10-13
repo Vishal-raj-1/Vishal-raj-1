@@ -1,17 +1,12 @@
-### Hi there 👋
+## Hi there, I am Vishal 👋
 
+### About me
+
+- 🌱 I’m currently learning Data structures and Algorithms and Web Development.
 - 🔭 I’m currently working on My Problems solving skill.
-- 🌱 I’m currently learning Data structures and Algorithms.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to yoga and morning workout.
 
-### Contact with me
-
-<a href="mailto:rajputvishal33786@gmail.com"><img align="left" alt="Vishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-
-<a href="http://www.linkedin.com/in/vishal-0710061a1/"><img align="left" alt="Vishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<a href="https://github.com/Vishal-raj-1"><img align="left" alt="Vishal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-
-<br /> <br />
 
 ### Languages and Tools:
 
@@ -27,6 +22,13 @@
 <br /> <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-raj-1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
- <br>
-
+ <br /> <br />
+ 
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&theme=midnight-purple)
+
+
+### Contact with me
+
+<a href="mailto:rajputvishal33786@gmail.com"><img align="left" alt="Vishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="http://www.linkedin.com/in/vishal-0710061a1/"><img align="left" alt="Vishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://github.com/Vishal-raj-1"><img align="left" alt="Vishal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
