@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data structures and Algorithms and Web Development.
 - 🔭 I’m currently working on My Problems solving skill.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to yoga and morning workout.
+- ⚡ Fun fact: I love to learn new skills.
 
 
 ### Languages and Tools:
