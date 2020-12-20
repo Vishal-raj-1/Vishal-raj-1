@@ -2,8 +2,8 @@
 
 ### About me
 
-- 🌱 I’m currently learning Data structures and Algorithms and Web Development.
-- 🔭 I’m currently working on My Problems solving skill.
+- 🌱 I’m currently learning React.JS and Node.JS.
+- 🔭 I’m currently working on [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites).
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
@@ -21,10 +21,11 @@
 
 <br /> <br />
 
+
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&theme=midnight-purple)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-raj-1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
  <br /> <br />
- 
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&theme=midnight-purple)
 
 
 ### Contact with me
