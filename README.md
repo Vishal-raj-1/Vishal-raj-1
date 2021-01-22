@@ -21,11 +21,11 @@
 
 <br /> <br />
 
+## 🏆 Github Status
 
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-raj-1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
- <br /> <br />
+<img  src="https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-raj-1&theme=dark" width="48%" >
+<br>
 
 
 ### Contact with me
