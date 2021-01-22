@@ -36,8 +36,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-raj-1&theme=dark" width="48%" >
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-raj-1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Contact with me
 
 <div align="center">
