@@ -48,4 +48,5 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-raj-1.Vishal-raj-1)
 </div>
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-raj-1)](https://github.com/ryo-ma/github-profile-trophy)
