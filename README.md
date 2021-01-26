@@ -38,7 +38,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-raj-1&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-raj-1&rank=S,AAA,AA&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ### Contact with me
