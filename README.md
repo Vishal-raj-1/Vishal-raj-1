@@ -7,11 +7,11 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vishal-raj-1.github.io/Portfolio/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/vishal_rajput2511/?utm_medium=copy_link)
 
-## *About me*
+## 🚀 *About me*
 
 I'm a frontend web developer, a competitive programmer & an open source enthusiast.
 
-## *My Experience*
+## ⚒ *My Experience*
 
 Web Developer Intern at [GirlScript](https://github.com/girlscript) - I have worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website designing.
 
@@ -21,7 +21,7 @@ Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) 
 
 Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.
 
-## *Tech Stack I am Familiar With*:
+## 👨‍💻 *Tech Stack I am Familiar With*:
 
 <p align="center">
 <br/>
