@@ -1,7 +1,7 @@
 ### Hi there, This side Vishal Rajput. 👋
 
 
-**R0Y4L23/R0Y4L23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vishal-raj-1/Vishal-raj-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
