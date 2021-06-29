@@ -1,23 +1,4 @@
-### Hi there, This side Vishal Rajput. 👋
-
-
-**Vishal-raj-1/Vishal-raj-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-<!-- ## Hi there, I am [Vishal](https://vishal-raj-1.github.io/Portfolio/) 👋
+## Hi there, I am [Vishal](https://vishal-raj-1.github.io/Portfolio/) 👋
 
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Vishal-raj-1)
@@ -73,4 +54,4 @@ Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Struct
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-raj-1.Vishal-raj-1)
 </div>
- -->
+
