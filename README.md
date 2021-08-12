@@ -1,4 +1,4 @@
-## Hi there, I am [Vishal](https://vishal-raj-1.github.io/Portfolio/) 👋
+# **Hi there, I am** [Vishal](https://vishal-raj-1.github.io/Portfolio/) 👋
 
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Vishal-raj-1)
@@ -11,17 +11,17 @@
 
 ## 🚀 *About me*
 
-I'm a frontend web developer, a competitive programmer & an open source enthusiast.
+**I'm a frontend web developer, a competitive programmer & an open source enthusiast.**
 
 ## ⚒ *My Experience*
 
-Web Developer Intern at [GirlScript](https://github.com/girlscript) - I have worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website designing.
+**Web Developer Intern at [GirlScript](https://github.com/girlscript) - I have worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website layout.**
 
-Project Admin at [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided **4 mentors and 300++ open source enthusiasts** about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.
+**Project Admin at [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
 
-Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) & [Kharagpur Winter of Code 20](https://kwoc.kossiitkgp.org/) - I worked on more than **10 projects** during this programs. The main projecct I was working on is [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites). In December 2020, I have raised more than **50 Pull Requests and solved 70++ issues**. NWOC'21 was my first open source program and I **ranked 1** in this program check leaderboard [here](https://njackwinterofcode.github.io/leaderboard.html).
+**Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) & [Kharagpur Winter of Code 20](https://kwoc.kossiitkgp.org/) - I worked on more than 10 projects during this programs. The main project I was working on is [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites). In December 2020, I have raised more than 50 Pull Requests and solved 70++ issues. NWOC'21 was my first open source program and I ranked 1 in this program check leaderboard** [here](https://njackwinterofcode.github.io/leaderboard.html).
 
-Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.
+**Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.**
 
 ## 👨‍💻 *Tech Stack I am Familiar With*:
 
@@ -54,4 +54,3 @@ Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Struct
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-raj-1.Vishal-raj-1)
 </div>
-
