@@ -11,7 +11,7 @@
 
 ## 🚀 *About me*
 
-**I'm a frontend web developer, a competitive programmer & an open source enthusiast.**
+**I'm a frontend web developer, a competitive programmer, an open source enthusiast & co-author of [Frentend Gembox](https://rzp.io/l/FbTFWVoyOY) (my first ebook).**
 
 ## ⚒ *My Experience*
 
