@@ -15,7 +15,7 @@
 
 ## ⚒ *My Experience*
 
-**Frontend Developer Intern @UpSkill-India - I have joined UpSkill India as frontend developer intern, It is 6-month long internship, where my tasks is related to APIs. Currently I am using HTML5, CSS3, JavaScript, ReactJS, firebase for daily task.
+**Frontend Developer Intern @UpSkill-India - I have joined UpSkill India as frontend developer intern, It is 6-month long internship, where my tasks is related to APIs. Currently I am using HTML5, CSS3, JavaScript, ReactJS, firebase for daily task.**
 
 **Web Developer Intern at [GirlScript](https://github.com/girlscript) - I worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website layout.**
 
