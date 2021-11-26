@@ -15,7 +15,9 @@
 
 ## ⚒ *My Experience*
 
-**Web Developer Intern at [GirlScript](https://github.com/girlscript) - I have worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website layout.**
+**Frontend Developer Intern @UpSkill-India - I have joined UpSkill India as frontend developer intern, It is 6-month long internship, where my tasks is related to APIs. Currently I am using HTML5, CSS3, JavaScript, ReactJS, firebase for daily task.
+
+**Web Developer Intern at [GirlScript](https://github.com/girlscript) - I worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website layout.**
 
 **Project Admin at [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
 
