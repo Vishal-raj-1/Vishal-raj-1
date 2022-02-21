@@ -9,6 +9,8 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/Vishal_Rajput)
 [<img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=Leetcode&logoColor=orange">](https://leetcode.com/Vishal_Rajput/)
 
+[You like what you see? Nominate me for GitHub Stars!](https://stars.github.com/nominate/)
+
 ## 🚀 *About me*
 
 **I'm a frontend web developer, a competitive programmer, an open source enthusiast & co-author of [Frentend Gembox](https://rzp.io/l/FbTFWVoyOY) (my first ebook).**
