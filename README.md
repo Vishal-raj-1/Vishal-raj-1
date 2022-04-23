@@ -1,5 +1,6 @@
 # Hi there, I am Vishal 👋
-<img src="/banner.png" alt="banner" />
+
+[<img src="/banner.png" alt="banner" />](https://www.youtube.com/channel/UCxtgdMujpXXOcAdigBf6sbg)
 
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Vishal-raj-1)
