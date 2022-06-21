@@ -1,4 +1,5 @@
-# Hi there, I am Vishal 👋
+
+<h1 align="center"># Hi there, I am Vishal<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="30"> 
 
 [<img src="/banner.png" alt="banner" />](https://www.youtube.com/channel/UCxtgdMujpXXOcAdigBf6sbg)
 
