@@ -1,7 +1,8 @@
 
 
-<h1 align="center"># Hi there, I am Vishal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29"> 
+<h1>Hi there, I am Vishal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29"> </h1>
 
+<img src="https://github.com/Vishal-raj-1/Vishal-raj-1/blob/master/banner.png" />
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Vishal-raj-1)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajputvishal33786@gmail.com)
