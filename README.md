@@ -18,6 +18,8 @@
 
 ## 💼 *Professional Experience*
 
+**Frontend Developer Intern [Ukom](https://ukom.com/) -  Improved the catalogue and developed more filters for catalogue. worked on React & Redux**
+
 **Software Developer Intern [Castled Data](https://www.castled.io/) -  Re-designed a interactive web portal providing an operational analytics platform for businesses for sky rocketing their sales ROI. worked on Next.JS, TypeScript, React-Bootstrap, SCSS**
 
 **Frontend Developer Intern [Career Leap](https://careerleap.io/) - Developed admin panel of UpSkill India app, from where educational content is pushed to the app. Crossed 10K+ learners in community with over 100k+ Learning minutes. Worked on React.JS, Firebase, React-Bootstrap, APIs Integration.**
